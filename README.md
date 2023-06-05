@@ -1,7 +1,7 @@
 # grep_list: grep from list of patterns
 
 ### Method_1: commands
-<h3 style="color:Blue;">Method_1: commands</h3>
+<h3 style="color:blue;">Method_1: commands</h3>
 ##### Generate unmatches using 2 steps
 ```
 grep  -Ff patterns.txt data.txt     >   match.txt # STEP_1 Generate   matches
