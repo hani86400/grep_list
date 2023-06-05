@@ -7,7 +7,7 @@ grep -vFf match.txt    patterns.txt > unmatch.txt # STEP_2 Generate unmatches
 ```
 
 
-#### Eaxample
+#### Eaxample:
 
 ##### patterns.txt
 ```
