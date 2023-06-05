@@ -1,4 +1,4 @@
-# my_grep: grep from list of patterns
+# grep_list: grep from list of patterns
 
 ### Method_1: commands
 
