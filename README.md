@@ -5,6 +5,9 @@
 
 ! Method_1: commands
 
+Hi here is some text <span style="color: red">this is red</span>.
+
+
 ##### Generate unmatches using 2 steps
 ```
 grep  -Ff patterns.txt data.txt     >   match.txt # STEP_1 Generate   matches
