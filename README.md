@@ -2,7 +2,9 @@
 
 ### Method_1: commands
 <h3 style="color: blue;">Method_1: commands</h3>
+
 ! Method_1: commands
+
 ##### Generate unmatches using 2 steps
 ```
 grep  -Ff patterns.txt data.txt     >   match.txt # STEP_1 Generate   matches
