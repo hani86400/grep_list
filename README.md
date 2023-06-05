@@ -80,7 +80,7 @@ chmod +x grep_list.sh
 ./grep_list.sh patterns.txt match.txt
 ```
 
-##### ouput
+##### output
 ```
 1: DDD FOUND
 2: VVV FOUND
