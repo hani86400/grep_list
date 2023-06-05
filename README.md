@@ -52,9 +52,7 @@ ZZZ
 ```
 grep  -Ff patterns.txt data.txt     >   match.txt # STEP_1 Generate   matches
 ```
-
 ##### match.txt
-
 ```
 DDD
 KKK
@@ -66,9 +64,7 @@ VVV
 ```
 grep -vFf match.txt    patterns.txt > unmatch.txt # STEP_2 Generate unmatches 
 ```
-
 ##### unmatch.txt
-
 ```
 111
 222
